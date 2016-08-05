@@ -8,7 +8,7 @@ top_n = 20
 
 data = {}
 counts = {}
-with open('raw.txt') as fp:
+with open('/Users/ianmilligan1/dropbox/git/WALK-CrawlVis/crawl-sites/raw.txt') as fp:
   for line in fp:
     arr = re.split("\s+", line.rstrip())
     date = arr[0]

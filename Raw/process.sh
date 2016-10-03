@@ -2,8 +2,8 @@
 for filename in *.txt; do
     filenameshort=${filename/.txt/}
     echo $filenameshort
-    cp $filename /home/ubuntu/WALK-CrawlVis/crawl-sites/raw.txt
-    python2 /home/ubuntu/WALK-CrawlVis/crawl-sites/process.py > /home/ubuntu/WALK-CrawlVis/crawl-sites/$filenameshort.csv
-    sed "s/data.csv/$filenameshort.csv/g" /home/ubuntu/WALK-CrawlVis/crawl-sites/index.html > /home/ubuntu/WALK-CrawlVis/crawl-sites/$filenameshort.html
+    cp $filename /Users/ianmilligan1/dropbox/git/WALK-CrawlVis/crawl-sites/raw.txt
+    python2 /Users/ianmilligan1/dropbox/git/WALK-CrawlVis/crawl-sites/process.py > /Users/ianmilligan1/dropbox/git/WALK-CrawlVis/crawl-sites/$filenameshort.csv
+    sed "s/data.csv/$filenameshort.csv/g" /Users/ianmilligan1/dropbox/git/WALK-CrawlVis/crawl-sites/index.html > /Users/ianmilligan1/dropbox/git/WALK-CrawlVis/crawl-sites/$filenameshort.html
 done
 

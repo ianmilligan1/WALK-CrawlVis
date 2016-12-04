@@ -15,6 +15,8 @@ Right now, the format is
 i.e.
 
 `ALBERTA_alberta_education_curriculum` refers to an Archive-It collection by the University of Alberta called "Alebrta Education Curriculum."
+
+
 [ALBERTA_alberta_education_curriculum](https://web-archive-group.github.io/WALK-CrawlVis/crawl-sites/ALBERTA_alberta_education_curriculum-all.html)  
 [ALBERTA_alberta_floods_2013](https://web-archive-group.github.io/WALK-CrawlVis/crawl-sites/ALBERTA_alberta_floods_2013-all.html)  
 [ALBERTA_alberta_oil_sands](https://web-archive-group.github.io/WALK-CrawlVis/crawl-sites/ALBERTA_alberta_oil_sands-all.html)  

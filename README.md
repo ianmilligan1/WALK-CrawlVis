@@ -68,7 +68,7 @@ i.e.
 [WINNIPEG_our_digitized_collections](https://web-archive-group.github.io/WALK-CrawlVis/crawl-sites/WINNIPEG_our_digitized_collections-urls.html)  
 [WINNIPEG_racism_in_winnipeg](https://web-archive-group.github.io/WALK-CrawlVis/crawl-sites/WINNIPEG_racism_in_winnipeg-urls.html)  
 [WINNIPEG_truth_reconciliation](https://web-archive-group.github.io/WALK-CrawlVis/crawl-sites/WINNIPEG_truth_reconciliation-urls.html)  
-[WINNIPEG_uofw_website](https://web-archive-group.github.io/WALK-CrawlVis/crawl-sites/WINNIPEG_uofw_website-urls.html)  (https://web-archive-group.github.io/WALK-CrawlVis/crawl-sites/
+[WINNIPEG_uofw_website](https://web-archive-group.github.io/WALK-CrawlVis/crawl-sites/WINNIPEG_uofw_website-urls.html)
 
 ## Questions
 

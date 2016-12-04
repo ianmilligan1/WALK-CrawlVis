@@ -2,7 +2,19 @@
 
 This repo contains the crawl visualizations for WALK project collections.
 
-## Current List of Links
+## Info
+
+We are still working on basic descriptions for collections. In short, what you might expect to find isn't always what you will find. The "humanities computing" collection, for example, was probably a class project not a web archive of humanities computing projects.
+
+## Current List of Visualizations
+
+Right now, the format is
+
+`COLLECTING INSTITUTION COLLECTION NAME`
+
+i.e.
+
+`ALBERTA_alberta_education_curriculum` refers to an Archive-It collection by the University of Alberta called "Alebrta Education Curriculum."
 
 - [ALBERTA_alberta_education_curriculum](https://ianmilligan1.github.io/WALK-CrawlVis/crawl-sites/ALBERTA_alberta_education_curriculum-all.html) 
 - [ALBERTA_alberta_floods_2013](https://ianmilligan1.github.io/WALK-CrawlVis/crawl-sites/ALBERTA_alberta_floods_2013-all.html) 
@@ -39,3 +51,7 @@ This repo contains the crawl visualizations for WALK project collections.
 - [WAHR_exln42](https://ianmilligan1.github.io/WALK-CrawlVis/crawl-sites/WAHR_exln42-all.html) 
 - [WAHR_panamapapers_all_urls](https://ianmilligan1.github.io/WALK-CrawlVis/crawl-sites/WAHR_panamapapers_all_urls.html) 
 - [WAHR_ymmfire](https://ianmilligan1.github.io/WALK-CrawlVis/crawl-sites/WAHR_ymmfire-urls.html) 
+
+## Questions
+
+Any questions? Please let [Ian Milligan](mailto:i2millig@uwaterloo.ca) know.

@@ -1,0 +1,5 @@
+((201509,www.dal.ca),4)
+((201509,www.google.com),1)
+((201509,dalalert.dal.ca),1)
+((201509,pdlvimeocdn-a.akamaihd.net),1)
+((201509,dal.ca),1)
